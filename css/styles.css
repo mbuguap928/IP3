@@ -48,3 +48,8 @@
   background-repeat: no-repeat;
   image:assets/portfolio/work4.jpg;
 }
+.portfolio{
+  image position:bottom left;
+  background-repeat: no-repeat;
+  image:assets/portfolio/work5.jpg;
+}
