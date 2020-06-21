@@ -20,6 +20,10 @@
 .what we do{
   background repeat:no repeat;
   image position:center;
-  image:assets/services_icons/dev_icon;
+  image:assets/services_icons/dev_icon.png;
 
+}.what we do{
+  background repeat:no repeat;
+  image position:right;
+  image:assets/services_icons/product_icon.png;
 }
