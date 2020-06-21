@@ -31,9 +31,15 @@
   background-repeat:no repeat;
   image position:right;
   image:assets/portfolio/work1.jpg;
+  
 }
 .portfolio{
   image position: left;
   image:assets/portfolio/work2.jpg
   background-repeat:no repeat;
+}
+.portfolio{
+  image position: left;
+  background-repeat: no-repeat;
+  image:assets/portfolio/work3.jpg;
 }
