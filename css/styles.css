@@ -17,3 +17,9 @@
   background image position: left;
   image:"services_icons/design_icon.png";
 }
+.what we do{
+  background repeat:no repeat;
+  image position:center;
+  image:assets/services_icons/dev_icon;
+
+}
