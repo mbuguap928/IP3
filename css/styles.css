@@ -13,17 +13,27 @@
   image:services_icons/dev_icon.png
 }
 .what we do{
-  background repeat:no-repeat;
+  background-repeat:no-repeat;
   background image position: left;
   image:"services_icons/design_icon.png";
 }
 .what we do{
-  background repeat:no repeat;
+  background-repeat:no repeat;
   image position:center;
   image:assets/services_icons/dev_icon.png;
 
 }.what we do{
-  background repeat:no repeat;
+  background-repeat:no repeat;
   image position:right;
   image:assets/services_icons/product_icon.png;
+}
+.portfolio{
+  background-repeat:no repeat;
+  image position:right;
+  image:assets/portfolio/work1.jpg;
+}
+.portfolio{
+  image position: left;
+  image:assets/portfolio/work2.jpg
+  background-repeat:no repeat;
 }
