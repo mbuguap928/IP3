@@ -31,7 +31,7 @@
   background-repeat:no repeat;
   image position:right;
   image:assets/portfolio/work1.jpg;
-  
+
 }
 .portfolio{
   image position: left;
@@ -42,4 +42,9 @@
   image position: left;
   background-repeat: no-repeat;
   image:assets/portfolio/work3.jpg;
+}
+.portfolio{
+  image position top left;
+  background-repeat: no-repeat;
+  image:assets/portfolio/work4.jpg;
 }
