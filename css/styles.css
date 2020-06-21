@@ -63,3 +63,8 @@
   background-repeat: no-repeat;
   image:assets/portfolio/work7.jpg;
 }
+.portfolio{
+  image position:bottom right;
+  background-repeat: no-repeat;
+  image:assets/portfolio/work8.jpg;
+}
