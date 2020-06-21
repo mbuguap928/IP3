@@ -6,3 +6,9 @@
   background-size: cover;
   position: relative;
 }
+.services{
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  image:services_icons/dev_icon.png
+}
